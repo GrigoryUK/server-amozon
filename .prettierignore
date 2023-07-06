@@ -1,0 +1,5 @@
+/dist
+/package.json
+/.env
+/.eslintrc.js
+/node_modules
